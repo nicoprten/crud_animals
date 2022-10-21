@@ -6,11 +6,11 @@ POST http://localhost:3001/api/create HTTP/1.1
 Content-Type: application/json
 
 {
-    "type" : "Toro",
-    "weight": "154",
-    "name": "Swagger",
+    "type" : "Novillo",
+    "weight": "112",
+    "name": "Miriom",
     "device": "COLLAR",
-    "deviceNumber": "C24114F"
+    "deviceNumber": "A14614A"
 }
 
 ###
